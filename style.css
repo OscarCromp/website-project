@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&display=swap");
+
+#navbar {
+  background-color: #f6f7eb;
+  height: 80px;
+  font-size: 40px;
+  font-family: "Oleo Script", sans-serif;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#socials {
+  background-color: #f6f7eb;
+  height: 40px;
+  font-size: 30px;
+  font-family: "Oleo Script", sans-serif;
+  font-weight: bold;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+
+#drinks {
+  width: 400px;
+  height: auto;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  padding-left: 100px;
+  padding-right: 100px;
+  
+}
+
+
+#products{
+  justify-content: space-between;
+  align-items:flex-start;
+  display: flex;
+  font-size: 30px;
+  padding-bottom: 200px;
+  
+}
+
+
+body {
+  background-color:#a31621;
+}
+
+h1 {
+  color: #f6f7eb;
+  font-size: 80px;
+  font-family: "Oleo Script", sans-serif;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  color: #f6f7eb;
+  font-size: 30px;
+  font-family: "Oleo Script", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.bar {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+a:link {
+  color:#1b1e18;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color:#a31621;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+    background-color: #a31621;
+    color: white;
+}
