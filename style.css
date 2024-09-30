@@ -13,12 +13,12 @@
 
 #socials {
   background-color: #f6f7eb;
-  height: 80px;
+  height: 60px;
   font-size: 40px;
   font-family: "Oleo Script", sans-serif;
   font-weight: bold;
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   justify-content: space-around;
 }
 
