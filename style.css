@@ -13,8 +13,8 @@
 
 #socials {
   background-color: #f6f7eb;
-  height: 40px;
-  font-size: 30px;
+  height: 80px;
+  font-size: 40px;
   font-family: "Oleo Script", sans-serif;
   font-weight: bold;
   display: flex;
@@ -81,13 +81,17 @@ q{
   margin-right: auto;
 }
 
-.manchester {
+
+
+.cold {
   display: flex;
   margin-left: auto;
   margin-right: auto;
+  height: 500px;
+  width: auto;
 }
 
-.coffee {
+.cookies {
   display: flex;
   margin-left: auto;
   margin-right: auto;
