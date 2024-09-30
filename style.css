@@ -66,6 +66,15 @@ p {
   justify-content: center;
 }
 
+q{
+   color: #f6f7eb;
+    font-size: 30px;
+    font-family: "Oleo Script", sans-serif;
+    display: flex;
+    justify-content: center;
+  
+}
+
 .bar {
   display: flex;
   margin-left: auto;
@@ -76,6 +85,14 @@ p {
   display: flex;
   margin-left: auto;
   margin-right: auto;
+}
+
+.coffee {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+  width: auto;
 }
 
 .table{
